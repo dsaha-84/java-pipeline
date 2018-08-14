@@ -1,2 +1,1 @@
-# java-pipeline
-This Repo is for java related git-jenkins pipeline
+This Project is going to be a pipeline project
